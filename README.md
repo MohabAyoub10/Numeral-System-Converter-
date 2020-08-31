@@ -1,2 +1,2 @@
 # Numeral-System-Converter-
-Number conversion system
+Mini Project for first semster at collage using basics of c++ { data types || Arrays || loops }
